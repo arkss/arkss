@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=추월보다%20초월&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=minsung%20kang%20render&fontSize=90)
 
-<h3 align="center">🖥 Technology Stack 🖥  </h3>
+<h3 align="center">🖥  Technology Stack 🖥  </h3>
 
 
 <p align="center">
@@ -16,11 +16,11 @@
 </p>
 
 <br><br>
-<h3 align="center"> 🏀 arkss 🏀 </h3>
+<h3 align="center"> 🏀  arkss 🏀 </h3>
 <p align="center">
   <a href="https://ssungkang.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://ssungkang.tistory.com/"/></a>&nbsp
   <a href="https://www.instagram.com/ssssung2_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ssssung2_/"/></a>&nbsp
-  <a href="rkdalstjd9@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Gmail&logoColor=white&link=rkdalstjd9@naver.com"/></a>
+  <a href="mailto:rkdalstjd9@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Gmail&logoColor=white&link=rkdalstjd9@naver.com"/></a>
 </p>
 <br>
 

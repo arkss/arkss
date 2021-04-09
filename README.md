@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 
 ![header](https://capsule-render.vercel.app/api?color=auto)
+# 추월이 아닌 초월
+
+🖥 Technology Stack 🖥
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
